@@ -1,0 +1,6 @@
+            Car   HR20Z0165           Seat Belt            550
+           Bike   HR43A9800              Helmet            150
+           Bike   JK65T6757          RC Missing            250
+            Car   HR20Z0114           Seat Belt            650
+           Bike   MP48B8726              Helmet            650
+           Bike   Jk09U7890              Hekmet            680
