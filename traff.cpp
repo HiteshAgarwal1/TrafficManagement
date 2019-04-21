@@ -18,7 +18,7 @@ class chlan_rcrd{
         void showchlan();
         void searchdata();
 
-};1
+};
 
 class veh_rcrd : public chlan_rcrd{
   protected:
